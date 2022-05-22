@@ -20,10 +20,13 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: "14"
+
       - name: Install Dependencies
         run: npm i
-      - name: Run Tests
-        run: npm t
+
+      - name: Run Tests On Android Device
+        run: npm run android.browserstack.app
+
       - name: Publish Report
         uses: peaceiris/actions-gh-pages@v3
         if: always()
