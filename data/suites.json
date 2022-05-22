@@ -4,13 +4,13 @@
     "name" : "Interacting with a Form screen",
     "children" : [ {
       "name" : "should be able to fill the form",
-      "uid" : "6a01b6f19e18fae0",
+      "uid" : "28a79f1d7cd259e0",
       "parentUid" : "ceca3398e3e43ff2ddecfa15cf4ad5c0",
       "status" : "passed",
       "time" : {
-        "start" : 1653188780173,
-        "stop" : 1653188798295,
-        "duration" : 18122
+        "start" : 1653189026204,
+        "stop" : 1653189044654,
+        "duration" : 18450
       },
       "flaky" : false,
       "newFailed" : false,
@@ -21,13 +21,13 @@
     "name" : "Interacting with a login screen",
     "children" : [ {
       "name" : "should be able login successfully",
-      "uid" : "f1771d905568777a",
+      "uid" : "204150f415645b59",
       "parentUid" : "7595edba86a4b85da5a469c0a506f1cb",
       "status" : "passed",
       "time" : {
-        "start" : 1653188838558,
-        "stop" : 1653188849139,
-        "duration" : 10581
+        "start" : 1653189085052,
+        "stop" : 1653189094416,
+        "duration" : 9364
       },
       "flaky" : false,
       "newFailed" : false,

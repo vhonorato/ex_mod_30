@@ -1,12 +1,12 @@
 {
-  "uid" : "f1771d905568777a",
+  "uid" : "204150f415645b59",
   "name" : "should be able login successfully",
   "fullName" : "Interacting with a login screen.should be able login successfully",
   "historyId" : "f2eacd56925deae54e0f7a7476eecad5",
   "time" : {
-    "start" : 1653188838558,
-    "stop" : 1653188849139,
-    "duration" : 10581
+    "start" : 1653189085052,
+    "stop" : 1653189094416,
+    "duration" : 9364
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,11 +18,11 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "993840747a4cf1fe",
+      "uid" : "8e37019b2c0fd920",
       "name" : "Execution video",
-      "source" : "993840747a4cf1fe.mp4",
+      "source" : "8e37019b2c0fd920.mp4",
       "type" : "video/mp4",
-      "size" : 165870
+      "size" : 199405
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -69,6 +69,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "f1771d905568777a.json",
+  "source" : "204150f415645b59.json",
   "parameterValues" : [ "samsung galaxy a51-10.0" ]
 }
