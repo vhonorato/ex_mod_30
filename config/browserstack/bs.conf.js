@@ -1,6 +1,6 @@
 let bsConf = {
-  user: "${{ secrets.BROWSERSTACK_USER }}",
-  key: "${{ secrets.BROWSERSTACK_KEY }}",
+  user: process.env.BROWSERSTACK_USER,
+  key: process.env.BROWSERSTACK_KEY,
   services: ["browserstack"],
 };
 
