@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Interacting with a Form screen",
+    "children" : [ {
+      "name" : "should be able to fill the form",
+      "uid" : "64853b0e6e827fd7",
+      "parentUid" : "ceca3398e3e43ff2ddecfa15cf4ad5c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653188418792,
+        "stop" : 1653188428196,
+        "duration" : 9404
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "webdriveIO 11-11" ]
+    } ],
+    "uid" : "ceca3398e3e43ff2ddecfa15cf4ad5c0"
+  }, {
+    "name" : "Interacting with a login screen",
+    "children" : [ {
+      "name" : "should be able login successfully",
+      "uid" : "38ad783cbe891848",
+      "parentUid" : "7595edba86a4b85da5a469c0a506f1cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653188446809,
+        "stop" : 1653188455029,
+        "duration" : 8220
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "webdriveIO 11-11" ]
+    } ],
+    "uid" : "7595edba86a4b85da5a469c0a506f1cb"
+  } ]
+}

@@ -1,0 +1,74 @@
+{
+  "uid" : "38ad783cbe891848",
+  "name" : "should be able login successfully",
+  "fullName" : "Interacting with a login screen.should be able login successfully",
+  "historyId" : "58a1704f0ce673fcbf9775a69c325f55",
+  "time" : {
+    "start" : 1653188446809,
+    "stop" : 1653188455029,
+    "duration" : 8220
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3623deb9aa0c0611",
+      "name" : "Execution video",
+      "source" : "3623deb9aa0c0611.mp4",
+      "type" : "video/mp4",
+      "size" : 216568
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Interacting with a login screen"
+  }, {
+    "name" : "testClass",
+    "value" : "Interacting with a login screen"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able login successfully"
+  }, {
+    "name" : "package",
+    "value" : "Interacting with a login screen"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "webdriveIO 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38ad783cbe891848.json",
+  "parameterValues" : [ "webdriveIO 11-11" ]
+}

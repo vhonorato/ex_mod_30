@@ -1,0 +1,74 @@
+{
+  "uid" : "64853b0e6e827fd7",
+  "name" : "should be able to fill the form",
+  "fullName" : "Interacting with a Form screen.should be able to fill the form",
+  "historyId" : "aec352d64742a0de634e2512b575b724",
+  "time" : {
+    "start" : 1653188418792,
+    "stop" : 1653188428196,
+    "duration" : 9404
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dc0693dc86a6349d",
+      "name" : "Execution video",
+      "source" : "dc0693dc86a6349d.mp4",
+      "type" : "video/mp4",
+      "size" : 262192
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Interacting with a Form screen"
+  }, {
+    "name" : "testClass",
+    "value" : "Interacting with a Form screen"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to fill the form"
+  }, {
+    "name" : "package",
+    "value" : "Interacting with a Form screen"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "webdriveIO 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64853b0e6e827fd7.json",
+  "parameterValues" : [ "webdriveIO 11-11" ]
+}

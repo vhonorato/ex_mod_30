@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should be able to fill the form",
+    "uid" : "64853b0e6e827fd7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653188418792,
+      "stop" : 1653188428196,
+      "duration" : 9404
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "webdriveIO 11-11" ]
+  }, {
+    "name" : "should be able login successfully",
+    "uid" : "38ad783cbe891848",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653188446809,
+      "stop" : 1653188455029,
+      "duration" : 8220
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "webdriveIO 11-11" ]
+  } ]
+}

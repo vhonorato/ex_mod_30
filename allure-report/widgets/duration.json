@@ -1,0 +1,21 @@
+[ {
+  "uid" : "64853b0e6e827fd7",
+  "name" : "should be able to fill the form",
+  "time" : {
+    "start" : 1653188418792,
+    "stop" : 1653188428196,
+    "duration" : 9404
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38ad783cbe891848",
+  "name" : "should be able login successfully",
+  "time" : {
+    "start" : 1653188446809,
+    "stop" : 1653188455029,
+    "duration" : 8220
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
