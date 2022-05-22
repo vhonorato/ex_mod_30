@@ -1,0 +1,74 @@
+{
+  "uid" : "b0b29ec398509ccc",
+  "name" : "should be able login successfully",
+  "fullName" : "Interacting with a login screen.should be able login successfully",
+  "historyId" : "f2eacd56925deae54e0f7a7476eecad5",
+  "time" : {
+    "start" : 1653188115966,
+    "stop" : 1653188125984,
+    "duration" : 10018
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "451f48a513be6344",
+      "name" : "Execution video",
+      "source" : "451f48a513be6344.mp4",
+      "type" : "video/mp4",
+      "size" : 207263
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Interacting with a login screen"
+  }, {
+    "name" : "testClass",
+    "value" : "Interacting with a login screen"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able login successfully"
+  }, {
+    "name" : "package",
+    "value" : "Interacting with a login screen"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "samsung galaxy a51-10.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0b29ec398509ccc.json",
+  "parameterValues" : [ "samsung galaxy a51-10.0" ]
+}
