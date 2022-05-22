@@ -1,5 +1,31 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "should be able to fill the form",
+    "uid" : "c0da7f17d60c0093",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653187413685,
+      "stop" : 1653187432095,
+      "duration" : 18410
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "samsung galaxy a51-10.0" ]
+  }, {
+    "name" : "should be able login successfully",
+    "uid" : "431f0e2c3fd8fe02",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653187472800,
+      "stop" : 1653187482901,
+      "duration" : 10101
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "samsung galaxy a51-10.0" ]
+  } ],
   "name" : "behaviors"
 }

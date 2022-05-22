@@ -1,0 +1,74 @@
+{
+  "uid" : "c0da7f17d60c0093",
+  "name" : "should be able to fill the form",
+  "fullName" : "Interacting with a Form screen.should be able to fill the form",
+  "historyId" : "90c572de19a5511f9661e01ebde873dd",
+  "time" : {
+    "start" : 1653187413685,
+    "stop" : 1653187432095,
+    "duration" : 18410
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "50284df63a753241",
+      "name" : "Execution video",
+      "source" : "50284df63a753241.mp4",
+      "type" : "video/mp4",
+      "size" : 162
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Interacting with a Form screen"
+  }, {
+    "name" : "testClass",
+    "value" : "Interacting with a Form screen"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to fill the form"
+  }, {
+    "name" : "package",
+    "value" : "Interacting with a Form screen"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "samsung galaxy a51-10.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c0da7f17d60c0093.json",
+  "parameterValues" : [ "samsung galaxy a51-10.0" ]
+}

@@ -1,5 +1,39 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Interacting with a Form screen",
+    "children" : [ {
+      "name" : "should be able to fill the form",
+      "uid" : "c0da7f17d60c0093",
+      "parentUid" : "ceca3398e3e43ff2ddecfa15cf4ad5c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653187413685,
+        "stop" : 1653187432095,
+        "duration" : 18410
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "samsung galaxy a51-10.0" ]
+    } ],
+    "uid" : "ceca3398e3e43ff2ddecfa15cf4ad5c0"
+  }, {
+    "name" : "Interacting with a login screen",
+    "children" : [ {
+      "name" : "should be able login successfully",
+      "uid" : "431f0e2c3fd8fe02",
+      "parentUid" : "7595edba86a4b85da5a469c0a506f1cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653187472800,
+        "stop" : 1653187482901,
+        "duration" : 10101
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "samsung galaxy a51-10.0" ]
+    } ],
+    "uid" : "7595edba86a4b85da5a469c0a506f1cb"
+  } ],
   "name" : "suites"
 }
