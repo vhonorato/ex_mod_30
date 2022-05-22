@@ -1,12 +1,12 @@
 {
-  "uid" : "8e2c876de050a9aa",
+  "uid" : "6a01b6f19e18fae0",
   "name" : "should be able to fill the form",
   "fullName" : "Interacting with a Form screen.should be able to fill the form",
   "historyId" : "90c572de19a5511f9661e01ebde873dd",
   "time" : {
-    "start" : 1653188060687,
-    "stop" : 1653188078902,
-    "duration" : 18215
+    "start" : 1653188780173,
+    "stop" : 1653188798295,
+    "duration" : 18122
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,11 +18,11 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "500c0d8ea866fa4",
+      "uid" : "fa805dfc3d454505",
       "name" : "Execution video",
-      "source" : "500c0d8ea866fa4.mp4",
+      "source" : "fa805dfc3d454505.mp4",
       "type" : "video/mp4",
-      "size" : 262192
+      "size" : 162
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -69,6 +69,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "8e2c876de050a9aa.json",
+  "source" : "6a01b6f19e18fae0.json",
   "parameterValues" : [ "samsung galaxy a51-10.0" ]
 }
