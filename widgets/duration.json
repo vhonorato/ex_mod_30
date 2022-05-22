@@ -1,20 +1,20 @@
 [ {
-  "uid" : "814100941ed65099",
-  "name" : "should be able to fill the form",
+  "uid" : "b27ade7c3472bb3a",
+  "name" : "should be able login successfully",
   "time" : {
-    "start" : 1653189294082,
-    "stop" : 1653189312484,
-    "duration" : 18402
+    "start" : 1653190853885,
+    "stop" : 1653190863463,
+    "duration" : 9578
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "af23f6927820a0c6",
-  "name" : "should be able login successfully",
+  "uid" : "943b7d60ba8856c6",
+  "name" : "should be able to fill the form",
   "time" : {
-    "start" : 1653189349132,
-    "stop" : 1653189358408,
-    "duration" : 9276
+    "start" : 1653190795835,
+    "stop" : 1653190813700,
+    "duration" : 17865
   },
   "status" : "passed",
   "severity" : "normal"

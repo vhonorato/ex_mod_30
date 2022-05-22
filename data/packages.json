@@ -1,17 +1,16 @@
 {
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
-  "name" : "packages",
   "children" : [ {
     "name" : "Interacting with a Form screen",
     "children" : [ {
       "name" : "should be able to fill the form",
-      "uid" : "814100941ed65099",
+      "uid" : "943b7d60ba8856c6",
       "parentUid" : "1b00f4a201d855731b47bfe42f28490d",
       "status" : "passed",
       "time" : {
-        "start" : 1653189294082,
-        "stop" : 1653189312484,
-        "duration" : 18402
+        "start" : 1653190795835,
+        "stop" : 1653190813700,
+        "duration" : 17865
       },
       "flaky" : false,
       "newFailed" : false,
@@ -22,18 +21,19 @@
     "name" : "Interacting with a login screen",
     "children" : [ {
       "name" : "should be able login successfully",
-      "uid" : "af23f6927820a0c6",
+      "uid" : "b27ade7c3472bb3a",
       "parentUid" : "57d0b4ca683ce51d4910fdb0238e9dbc",
       "status" : "passed",
       "time" : {
-        "start" : 1653189349132,
-        "stop" : 1653189358408,
-        "duration" : 9276
+        "start" : 1653190853885,
+        "stop" : 1653190863463,
+        "duration" : 9578
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "samsung galaxy a51-10.0" ]
     } ],
     "uid" : "57d0b4ca683ce51d4910fdb0238e9dbc"
-  } ]
+  } ],
+  "name" : "packages"
 }
