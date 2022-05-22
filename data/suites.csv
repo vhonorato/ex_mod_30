@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun May 22 02:43:33 UTC 2022","Sun May 22 02:43:52 UTC 2022","18410","","Interacting with a Form screen","","Interacting with a Form screen","should be able to fill the form","should be able to fill the form",""
-"passed","Sun May 22 02:44:32 UTC 2022","Sun May 22 02:44:42 UTC 2022","10101","","Interacting with a login screen","","Interacting with a login screen","should be able login successfully","should be able login successfully",""

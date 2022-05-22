@@ -1,39 +1,5 @@
 {
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
-  "children" : [ {
-    "name" : "Interacting with a Form screen",
-    "children" : [ {
-      "name" : "should be able to fill the form",
-      "uid" : "c0da7f17d60c0093",
-      "parentUid" : "1b00f4a201d855731b47bfe42f28490d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653187413685,
-        "stop" : 1653187432095,
-        "duration" : 18410
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "samsung galaxy a51-10.0" ]
-    } ],
-    "uid" : "1b00f4a201d855731b47bfe42f28490d"
-  }, {
-    "name" : "Interacting with a login screen",
-    "children" : [ {
-      "name" : "should be able login successfully",
-      "uid" : "431f0e2c3fd8fe02",
-      "parentUid" : "57d0b4ca683ce51d4910fdb0238e9dbc",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653187472800,
-        "stop" : 1653187482901,
-        "duration" : 10101
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "samsung galaxy a51-10.0" ]
-    } ],
-    "uid" : "57d0b4ca683ce51d4910fdb0238e9dbc"
-  } ],
+  "children" : [ ],
   "name" : "packages"
 }
